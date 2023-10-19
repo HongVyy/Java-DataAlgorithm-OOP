@@ -5,3 +5,4 @@ Array List
 Binary Tree
 Recursion
 Linked List
+Sorting method
