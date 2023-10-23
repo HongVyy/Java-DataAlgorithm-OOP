@@ -5,4 +5,6 @@ Basically, my java labs for DSA class at university in Vietnam
 - Binary Tree
 - Recursion
 - Linked List
-- Sorting method
+- Sorting method (Merge Sort, Bubble Sort, Insertion Sort)
+- Inheritance (applied for object proporties class)
+- Polymorphism (applied for methods & functions)
