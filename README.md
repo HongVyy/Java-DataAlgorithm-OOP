@@ -1,8 +1,8 @@
 # JavaDataStructures-Algorithm
 Basically, my java labs for DSA class at university in Vietnam
-...
+
 - Array List
-- Binary Tree
+- Binary Search Tree
 - Recursion
 - Linked List
 - Sorting method (Merge Sort, Bubble Sort, Insertion Sort)
