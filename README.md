@@ -11,4 +11,4 @@ Basically, my java labs for DSA class at university in Vietnam
 - Polymorphism (applied for methods & functions)
 - Oriented Object Programming
 - Java SwingGUIs
-- 
+- I did BMI calculation   
