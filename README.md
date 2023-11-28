@@ -1,6 +1,6 @@
 # JavaDataStructures-Algorithm
 My java DSA class at university in Vietnam
-Textbook: Java How to program 9th edition
+- Textbook: Java How to program 9th edition
 
 - Array List
 - Binary Search Tree
