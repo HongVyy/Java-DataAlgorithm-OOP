@@ -10,4 +10,5 @@ My java DSA class at university
 - Polymorphism (applied for methods & functions)
 - Oriented Object Programming
 - Java SwingGUIs
-- I did BMI calculation   
+- I did BMI calculation
+- 
