@@ -1,7 +1,6 @@
 
 /*
  * We introduced the body mass index (BMI) calculator in Exercise 1.10. The formulas for calculating BMI are
-
                 weightInPounds × 703
     BMI =      -----------------------
             heightInInches × heightInInches
